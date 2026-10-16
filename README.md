@@ -15,9 +15,7 @@ Designed with simplicity and usability in mind, it helps users organize daily ex
 
 ## 🌐 Explore the Project
 
-🚀 **Live Demo:** [Visit ExpenseTracker](YOUR_LIVE_DEMO_URL)
-
-💻 **Source Code:** [GitHub Repository](YOUR_GITHUB_REPOSITORY_URL)
+🚀 **Live Demo:** [Visit ExpenseTracker]([YOUR_LIVE_DEMO_URL](https://yash210307.github.io/Expense-Tracker/))
 
 ---
 
